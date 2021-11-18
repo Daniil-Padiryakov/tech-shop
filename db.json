@@ -1,0 +1,280 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "title": "Apple iPhone 13 mini 512 ГБ RU, синий",
+      "price": 1224,
+      "img": "product_0.jpg",
+      "category_id": 2
+    },
+    {
+      "id": 1,
+      "title": "Apple iPhone 13 mini 512 ГБ RU, синий",
+      "price": 3234,
+      "img": "product_0.jpg",
+      "category_id": 2
+    },
+    {
+      "id": 2,
+      "title": "Apple iPhone 13 mini 512 ГБ RU, синий",
+      "price": 2342,
+      "img": "product_0.jpg",
+      "category_id": 2
+    },
+    {
+      "id": 3,
+      "title": "Apple iPhone 13 mini 512 ГБ RU, синий",
+      "price": 6574,
+      "img": "product_0.jpg",
+      "category_id": 2
+    },
+    {
+      "id": 4,
+      "title": "Apple iPhone 13 mini 512 ГБ RU, синий",
+      "price": 8946,
+      "img": "product_0.jpg",
+      "category_id": 2
+    },
+    {
+      "id": 5,
+      "title": "Samsung Galaxy S21 Ultra 5G 16/512GB RU, черный фантом",
+      "price": 3783,
+      "img": "product_1.jpg",
+      "category_id": 3
+    },
+    {
+      "id": 6,
+      "title": "Samsung Galaxy S21 Ultra 5G 16/512GB RU, черный фантом",
+      "price": 8485,
+      "img": "product_1.jpg",
+      "category_id": 3
+    },
+    {
+      "id": 7,
+      "title": "Samsung Galaxy S21 Ultra 5G 16/512GB RU, черный фантом",
+      "price": 4047,
+      "img": "product_1.jpg",
+      "category_id": 3
+    },
+    {
+      "id": 8,
+      "title": "Samsung Galaxy S21 Ultra 5G 16/512GB RU, черный фантом",
+      "price": 1743,
+      "img": "product_1.jpg",
+      "category_id": 3
+    },
+    {
+      "id": 9,
+      "title": "Samsung Galaxy S21 Ultra 5G 16/512GB RU, черный фантом",
+      "price": 4928,
+      "img": "product_1.jpg",
+      "category_id": 3
+    },
+    {
+      "id": 10,
+      "title": "Xiaomi Mi 11 Lite 5G 6/128Gb (NFC)",
+      "price": 3768,
+      "img": "product_2.png",
+      "category_id": 4
+    },
+    {
+      "id": 11,
+      "title": "Xiaomi Mi 11 Lite 5G 6/128Gb (NFC)",
+      "price": 7458,
+      "img": "product_2.png",
+      "category_id": 4
+    },
+    {
+      "id": 12,
+      "title": "Xiaomi Mi 11 Lite 5G 6/128Gb (NFC)",
+      "price": 4684,
+      "img": "product_2.png",
+      "category_id": 4
+    },
+    {
+      "id": 13,
+      "title": "Xiaomi Mi 11 Lite 5G 6/128Gb (NFC)",
+      "price": 3485,
+      "img": "product_2.png",
+      "category_id": 4
+    },
+    {
+      "id": 14,
+      "title": "Xiaomi Mi 11 Lite 5G 6/128Gb (NFC)",
+      "price": 5673,
+      "img": "product_2.png",
+      "category_id": 4
+    },
+    {
+      "id": 15,
+      "title": "Xiaomi Mi 11 Lite 5G 6/128Gb (NFC)",
+      "price": 2657,
+      "img": "product_2.png",
+      "category_id": 4
+    },
+    {
+      "id": 16,
+      "title": "Intel Core i7-11700KF (3600MHz/LGA1200/L3 16384Kb)",
+      "price": 5747,
+      "img": "product_3.jpg",
+      "category_id": 5
+    },
+    {
+      "id": 17,
+      "title": "Intel Core i7-11700KF (3600MHz/LGA1200/L3 16384Kb)",
+      "price": 8423,
+      "img": "product_3.jpg",
+      "category_id": 5
+    },
+    {
+      "id": 18,
+      "title": "Intel Core i7-11700KF (3600MHz/LGA1200/L3 16384Kb)",
+      "price": 7842,
+      "img": "product_3.jpg",
+      "category_id": 5
+    },
+    {
+      "id": 19,
+      "title": "Intel Core i7-11700KF (3600MHz/LGA1200/L3 16384Kb)",
+      "price": 3732,
+      "img": "product_3.jpg",
+      "category_id": 5
+    },
+    {
+      "id": 20,
+      "title": "AMD Ryzen 9 3900X, BOX",
+      "price": 7536,
+      "img": "product_4.jpg",
+      "category_id": 5
+    },
+    {
+      "id": 21,
+      "title": "AMD Ryzen 9 3900X, BOX",
+      "price": 5842,
+      "img": "product_4.jpg",
+      "category_id": 5
+    },
+    {
+      "id": 22,
+      "title": "AMD Ryzen 9 3900X, BOX",
+      "price": 2478,
+      "img": "product_4.jpg",
+      "category_id": 5
+    },
+    {
+      "id": 23,
+      "title": "GIGABYTE GeForce RTX 3080 LHR 10240Mb GAMING OC 2.0",
+      "price": 4757,
+      "img": "product_5.jpg",
+      "category_id": 6
+    },
+    {
+      "id": 24,
+      "title": "GIGABYTE GeForce RTX 3080 LHR 10240Mb GAMING OC 2.0",
+      "price": 7474,
+      "img": "product_5.jpg",
+      "category_id": 6
+    },
+    {
+      "id": 25,
+      "title": "GIGABYTE GeForce RTX 3080 LHR 10240Mb GAMING OC 2.0",
+      "price": 5322,
+      "img": "product_5.jpg",
+      "category_id": 6
+    },
+    {
+      "id": 26,
+      "title": "GIGABYTE AORUS Radeon RX 6900 XT MASTER 16G (GV-R69XTAORUS M-16GD)",
+      "price": 2579,
+      "img": "product_6.jpg",
+      "category_id": 6
+    },
+    {
+      "id": 27,
+      "title": "GIGABYTE AORUS Radeon RX 6900 XT MASTER 16G (GV-R69XTAORUS M-16GD)",
+      "price": 2576,
+      "img": "product_6.jpg",
+      "category_id": 6
+    },
+    {
+      "id": 28,
+      "title": "GIGABYTE AORUS Radeon RX 6900 XT MASTER 16G (GV-R69XTAORUS M-16GD)",
+      "price": 4794,
+      "img": "product_6.jpg",
+      "category_id": 6
+    },
+    {
+      "id": 29,
+      "title": "GIGABYTE AORUS Radeon RX 6900 XT MASTER 16G (GV-R69XTAORUS M-16GD)",
+      "price": 4794,
+      "img": "product_6.jpg",
+      "category_id": 6
+    },
+    {
+      "id": 30,
+      "title": "GIGABYTE AORUS Radeon RX 6900 XT MASTER 16G (GV-R69XTAORUS M-16GD)",
+      "price": 2685,
+      "img": "product_6.jpg",
+      "category_id": 6
+    },
+    {
+      "id": 31,
+      "title": "G.SKILL Trident Z Neo 32GB (16GBx2) DDR4 4000MHz DIMM 288-pin CL14 F4-4000C14D-32GTZN",
+      "price": 6958,
+      "img": "product_7.png",
+      "category_id": 7
+    },
+    {
+      "id": 32,
+      "title": "G.SKILL Trident Z Neo 32GB (16GBx2) DDR4 4000MHz DIMM 288-pin CL14 F4-4000C14D-32GTZN",
+      "price": 4258,
+      "img": "product_7.png",
+      "category_id": 7
+    },
+    {
+      "id": 33,
+      "title": "G.SKILL Trident Z Neo 32GB (16GBx2) DDR4 4000MHz DIMM 288-pin CL14 F4-4000C14D-32GTZN",
+      "price": 5853,
+      "img": "product_7.png",
+      "category_id": 7
+    },
+    {
+      "id": 34,
+      "title": "HyperX Predator RGB 64GB (32GBx2) DDR4 3600MHz DIMM 288-pin CL18",
+      "price": 4857,
+      "img": "product_8.jpg",
+      "category_id": 7
+    },
+    {
+      "id": 35,
+      "title": "HyperX Predator RGB 64GB (32GBx2) DDR4 3600MHz DIMM 288-pin CL18",
+      "price": 6958,
+      "img": "product_8.jpg",
+      "category_id": 7
+    },
+    {
+      "id": 36,
+      "title": "HyperX Predator RGB 64GB (32GBx2) DDR4 3600MHz DIMM 288-pin CL18",
+      "price": 4787,
+      "img": "product_8.jpg",
+      "category_id": 7
+    },
+    {
+      "id": 37,
+      "title": "HyperX Predator RGB 64GB (32GBx2) DDR4 3600MHz DIMM 288-pin CL18",
+      "price": 5946,
+      "img": "product_8.jpg",
+      "category_id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode" }
+}
+
